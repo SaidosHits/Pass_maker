@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Passmaker\Passmaker\bin\Debug\Passmaker.exe.config
+C:\Users\pc\source\repos\Passmaker\Passmaker\bin\Debug\Passmaker.exe
+C:\Users\pc\source\repos\Passmaker\Passmaker\bin\Debug\Passmaker.pdb
+C:\Users\pc\source\repos\Passmaker\Passmaker\obj\Debug\Passmaker.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Passmaker\Passmaker\obj\Debug\Passmaker.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Passmaker\Passmaker\obj\Debug\Passmaker.exe
+C:\Users\pc\source\repos\Passmaker\Passmaker\obj\Debug\Passmaker.pdb
